@@ -1,4 +1,4 @@
-# Telegram Bot for [Bot Name]
+# Telegram Taxi Bot
 
 This project is a Telegram bot built using the `python-telegram-bot` library. It interacts with users, processes their commands, and provides useful responses in a conversational manner. The bot includes a variety of features that allow it to be extended and customized for various purposes.
 
