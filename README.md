@@ -72,3 +72,4 @@ This project is a Telegram bot built using the `python-telegram-bot` library. It
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions such as bug fixes, new features, or improvements to the documentation are always welcome!
 
 ## License
+This project is licensed under the MIT License.
